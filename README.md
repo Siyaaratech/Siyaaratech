@@ -21,17 +21,24 @@ From LLMs to Edge AI, from raw data to real-world impact.
 
 ---
 
+## 🚀 Engineering Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Siyaaratech/Siyaaratech/output/github-contribution-grid-snake.svg" />
+### 👩‍💻 CTO — Active Development
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=react-dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siyaaratech&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyaaratech&layout=compact&theme=radical" />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siyaaratech&theme=react-dark" />
+### 👨‍💼 CEO — Technical Leadership
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliArfa852&theme=react-dark" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AliArfa852&show_icons=true&theme=radical" />
 
 </div>
+
 
 ---
 
