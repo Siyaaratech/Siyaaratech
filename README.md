@@ -288,7 +288,8 @@ Multi-industry scalable
 
 ### Growth Vectors
 AI Automation Products → Enterprise Integrations → Data Intelligence Platforms → Edge AI Solutions
-**Designed for multi-industry scalability** • **B2B SaaS + Custom Engineering**
+• **Designed for multi-industry scalability** 
+• **B2B SaaS + Custom Engineering**
 
 </div>
 </details>
