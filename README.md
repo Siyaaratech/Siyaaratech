@@ -477,6 +477,16 @@ AI Automation Products → Enterprise Integrations → Data Intelligence Platfor
 </a>
 
 </td>
+<td align="center">
+
+**Video Demos**
+<br>
+<a href="https://siyaaratech.com/">
+  <img src="https://img.shields.io/badge/Website-Siyaara%20Tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Siyaara Tech Website" />
+</a>
+
+
+</td>
 </tr>
 </table>
 
