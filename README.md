@@ -36,44 +36,6 @@
 
 ---
 
-<!-- Executive Dashboard Section -->
-<details open>
-<summary><h2>🎯 Executive Dashboard</h2></summary>
-
-<div align="center">
-
-### Real-Time Engineering Activity
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**👩‍💻 CTO — Shitba Kashif**
-<br><sub>AI Architecture & System Design</sub>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=react&hide_border=true&area=true&custom_title=CTO%20Contribution%20Graph" width="100%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shitbaKashif&show_icons=true&theme=react&hide_border=true&border_radius=10&custom_title=CTO%20GitHub%20Stats" width="95%" />
-
-</td>
-<td width="50%" align="center">
-
-**👨‍💼 CEO — Ali Arfa**
-<br><sub>Technical Leadership & Strategy</sub>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliArfa852&theme=react&hide_border=true&area=true&custom_title=CEO%20Contribution%20Graph" width="100%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=AliArfa852&show_icons=true&theme=react&hide_border=true&border_radius=10&custom_title=CEO%20GitHub%20Stats" width="95%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-</details>
-
----
-
 <!-- 30-Second Pitch with Visual Icons -->
 <div align="center">
 
@@ -297,6 +259,7 @@ AI Automation Products → Enterprise Integrations → Data Intelligence Platfor
 ---
 
 <!-- Team Section with Interactive Cards -->
+<!-- 
 <details open>
 <summary><h2>👥 Founding Team</h2></summary>
 
@@ -361,7 +324,7 @@ AI Automation Products → Enterprise Integrations → Data Intelligence Platfor
 
 </div>
 </details>
-
+-->
 ---
 
 <!-- Tech Stack Visualization -->
