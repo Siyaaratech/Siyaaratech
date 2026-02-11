@@ -31,6 +31,9 @@
 <a href="https://github.com/Siyaaratech">
   <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://siyaaratech.com/">
+  <img src="https://img.shields.io/badge/Website-Siyaara%20Tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Siyaara Tech Website" />
+</a>
 
 </div>
 
@@ -484,7 +487,6 @@ AI Automation Products → Enterprise Integrations → Data Intelligence Platfor
 <a href="https://siyaaratech.com/">
   <img src="https://img.shields.io/badge/Website-Siyaara%20Tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Siyaara Tech Website" />
 </a>
-
 
 </td>
 </tr>
